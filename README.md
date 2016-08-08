@@ -8,3 +8,7 @@ stack exchange answer Qs; ifconfig; nmcli ethernet unavailable;make log for code
 Aug 04 2016
 
 frame, segment, datagram, socket packet?;
+
+Aug 08 2016
+
+syslog on linux;
