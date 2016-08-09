@@ -11,4 +11,4 @@ frame, segment, datagram, socket packet?;
 
 Aug 08 2016
 
-syslog on linux;
+syslog on linux; apt-get -f install?;
