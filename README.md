@@ -3,12 +3,14 @@ The *Lost and Found* in my head.
 
 Aug 03 2016 
 
-stack exchange answer Qs; ifconfig; nmcli ethernet unavailable;make log for codes; `sudo modprobe -r e1000e && sudo modprobe e1000e` what means?; reputation stack exchange;
+stack exchange answer Qs;   reputation stack exchange;
 
-Aug 04 2016
++Aug 04 2016
 
-frame, segment, datagram, socket packet?;
+wireshark in linux 
 
 Aug 08 2016
 
-syslog on linux; apt-get -f install?;
+Aug 09 2016
+
+grep
