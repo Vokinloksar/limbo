@@ -36,5 +36,13 @@ save folder in vim files
 vim indent
 javascript function scope window & document & this(object)
 vim folder
-
+vim clipboard register
 vim registers saved
+
+Aug 19 2016
+
+jquery trigger multiple times
+
+Aug 20 2016
+
+iptables
