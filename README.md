@@ -46,3 +46,15 @@ jquery trigger multiple times
 Aug 20 2016
 
 iptables
+
+Aug 22 2016
+
+stop the fingerprint device
+
+Aug 23 2016
+
+vue.js react.js
+
+Aug 26 2016
+
+grep -R "some text you search" ./whatever/dir
