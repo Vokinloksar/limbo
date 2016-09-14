@@ -58,3 +58,8 @@ vue.js react.js
 Aug 26 2016
 
 grep -R "some text you search" ./whatever/dir
+
+Sep 14 2016
+
+request payload & JSON & escape & carriage return & how server process
+
