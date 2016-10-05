@@ -52,3 +52,6 @@ Sep 14 2016
 
 request payload & JSON & escape & carriage return & how server process
 
+Oct 05 2016
+
+ausearch  auditd
